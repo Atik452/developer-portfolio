@@ -8,6 +8,10 @@ body {
     font-size: 70px;
 }
 
+.big-dream-header {
+    font-size: 50px;
+}
+
 .highlight {
     font-size: 50px;
 
@@ -17,7 +21,7 @@ body {
 
 section {
     display: flex;
-    padding-bottom: 20px;
+    margin-bottom: 50px;
 
 }
 
@@ -42,4 +46,10 @@ section {
 .top-header {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.big-dream {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
